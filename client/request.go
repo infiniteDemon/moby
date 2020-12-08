@@ -16,7 +16,7 @@ import (
 	"github.com/docker/docker/api/types"
 	"github.com/docker/docker/api/types/versions"
 	"github.com/docker/docker/errdefs"
-	"github.com/pkg/errors"
+	"github.com/infiniteDemon/errors"
 )
 
 // serverResponse is a wrapper for http API responses.
